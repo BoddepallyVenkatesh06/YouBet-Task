@@ -29,7 +29,7 @@ YouBet Task will be the first to publish projects on it, demonstrating how it dr
 - [commitlint](https://commitlint.js.org/)
 
 ## Live Demo
-- Test the Application at: [Live Demo]()
+- Test the Application at: [Live Demo](https://you-bet-task.vercel.app/)
 
 ## Project Structure
 
